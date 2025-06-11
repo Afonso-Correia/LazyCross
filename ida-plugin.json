@@ -3,7 +3,7 @@
   "plugin": {
     "name": "LazyCross",
     "entryPoint": "LazyCross.py",
-    "categories": ["decompilation"],
+    "categories": ["decompilation", "api-scripting-and-automation"],
     "logoPath": "logo.png",
     "idaVersions": ">=7.4",
     "description": "Display cross-references to functions and variables across the entire binary in Hex-Rays pseudocode",
