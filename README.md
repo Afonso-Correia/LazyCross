@@ -5,7 +5,7 @@
 
 ## About the Plugin
 
-An IDA Pro plugin that display cross-references to functions or variables across the entire binary in Hex-Rays pseudocode.
+An IDA Pro plugin that displays cross-references to functions or variables across the entire binary in Hex-Rays pseudocode.
 
 ![](result.png)
 
